@@ -1,29 +1,25 @@
-@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url('//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 @font-face {
-  font-family: 'webfonts';
-  src: url('../fonts/sealic_bold.woff2') format('woff2');
-  src: url('../fonts/sealic_bold.woff2') format('woff');
+ font-family: 'webfonts';
+ src: url('//cdn.staticaly.com/gh/gosdorxda/style-arahwisata/1ec73145/sealic_bold.woff2') format('woff2');
  font-style: normal;
  font-weight: 600;
 }
 @font-face {
  font-family: 'webfonts';
- src: url('../fonts/sealic_medium.woff2') format('woff2');
- src: url('../fonts/sealic_medium.woff2') format('woff');
+ src: url('https://cdn.staticaly.com/gh/gosdorxda/style-arahwisata/1ec73145/sealic_light.woff2') format('woff2');
  font-style: normal;
  font-weight: 500;
 }
 @font-face {
  font-family: 'webfonts';
- src: url('../fonts/sealic_regular.woff2') format('woff2');
- src: url('../fonts/sealic_regular.woff2') format('woff');
+ src: url('https://cdn.staticaly.com/gh/gosdorxda/style-arahwisata/1ec73145/sealic_medium.woff2') format('woff2');
  font-style: normal;
  font-weight: 400;
 }
 @font-face {
  font-family: 'webfonts';
- src: url('../fonts/sealic_light.woff2') format('woff2');
- src: url('../fonts/sealic_light.woff2') format('woff');
+ src: url('https://cdn.staticaly.com/gh/gosdorxda/style-arahwisata/1ec73145/sealic_regular.woff2') format('woff2');
  font-style: normal;
  font-weight: 300;
 }
