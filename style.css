@@ -260,7 +260,7 @@ template {
 	display: none!important
 }
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-	margin-bottom: .5rem;
+	margin-bottom: 1.15rem;
 	font-family: webfonts;
 	font-weight: 500;
 	line-height: 1.2;
