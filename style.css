@@ -842,10 +842,10 @@ ul.share-links {
 	text-align: right
 }
 section p {
-	font-size: 1.05555rem;
-	line-height: 1.6;
-	margin: 0 0 1.25em;
-	text-rendering: optimizeLegibility
+	font-size: .98555rem;
+    line-height: 1.5;
+    margin: 0 0 1.15em;
+    text-rendering: optimizeLegibility;
 }
 .share-links li a, .share-links li span {
 	display: block;
