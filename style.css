@@ -779,7 +779,8 @@ img.photo-wrap {
 	color: #888;
 	line-height: 1.6em;
 	font-size: 13px;
-	padding: 15px
+	padding: 15px;
+	font-weight:500
 }
 .metabawah .postmetainfo span {
 	color: #888;
