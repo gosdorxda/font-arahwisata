@@ -532,7 +532,7 @@ section p a:hover {
 	padding: 15px;
 	margin: -15px -15px 0 -15px;
 	border-bottom: 5px solid #f5f7f8;
-	font-weight: 500
+	font-weight: 400
 }
 .breadcrumbs a {
 	color: #ccc;
@@ -855,7 +855,8 @@ section p {
 	color: #fff;
 	font-size: 18px;
 	font-weight: 400;
-	text-align: center
+	text-align: center;
+	border-radius:8px
 }
 .social .twitter a:before {
 	content: "\f099"
